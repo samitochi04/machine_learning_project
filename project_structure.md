@@ -87,8 +87,9 @@ Build a **Market Basket Analysis & Product Recommendation System** using Instaca
 - **Data Science** : 
   - Python (pandas, numpy, matplotlib, seaborn)
   - Scikit-learn (classification, clustering)
-  - XGBoost / LightGBM (gradient boosting models)
-  - MLxtend (association rules, frequent patterns)
+  - MLxtend (Apriori, FP-Growth)
+  - Custom utility-aware mining logic (UP-Tree inspired)
+  - XGBoost (gradient boosting models, enable personnalized recommendations)
 
 - **Data Engineering** : 
   - APIs (FastAPI)
