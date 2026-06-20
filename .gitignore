@@ -1,4 +1,8 @@
-meeting_notes.md
-figures/
-data/
+.env
+
 .venv
+venv
+
+*.csv
+
+Bookly_Project_Plan.md
